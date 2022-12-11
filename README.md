@@ -26,9 +26,7 @@
 
 
 
-**Opeyemil-code/Opeyemil-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 - :telescope: I’m working as a Software developer and contributing to frontend for building web applications.
 - :zap: In my free time, I solve problems on geeksforgeeks and read tech articles.
 - 🌱 I’m currently learning javascript and react
@@ -49,5 +47,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+- ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=opeyemil-code&theme=vue-dark)](https://git.io/streak-stats)
