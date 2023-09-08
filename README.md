@@ -29,7 +29,7 @@
 
 - :telescope: I’m working as a Software developer and contributing to frontend for building web applications.
 - :zap: In my free time, I solve problems on geeksforgeeks and read tech articles.
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m currently learning Nextjs, typescript
 - 👯 I’m looking to collaborate on front end web applications
 - exploring technical writing
 - you can reach me on : <a href="https://twitter.com/Opeyemil1/status/1569374378537648128?s=20&t=ZWIjlHFsBrbjMNppkt8mDw">
